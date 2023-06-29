@@ -1,0 +1,6 @@
+export const SEARCH_BAR="SEARCH_BAR"
+export const REMOVE_STORY="REMOVE_STORY"
+export const HANDEL_PAGE="HANDEL_PAGE"
+export const HANDEL_BUTTON="HANDEL_BUTTON"
+export const SET_LOADING="SET_LOADING"
+export const SET_STORIES="SET_STORIES"
